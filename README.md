@@ -1,4 +1,4 @@
-# Angular 6 y Firestore
+# Web Components con Angular Elements
 Respositorio con el código utilizado para la publicación Web Components con Angular Elements
 
 ![Imagen Principal Artículo](http://nicoavila.s3.amazonaws.com/articulos/08_01webcomponents-angular-elements.jpg)
